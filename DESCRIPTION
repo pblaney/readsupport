@@ -25,11 +25,11 @@ Imports:
     RSeqLib,
     Rsamtools
 Remotes: 
-  github::mskilab/bamUtils,
-  github::mskilab/gUtils,
-  github::mskilab/gChain,
-  github::mskilab/gTrack,
-  github::mskilab/gGnome,
+  github::mskilab-org/bamUtils,
+  github::mskilab-org/gUtils,
+  github::mskilab-org/gChain,
+  github::mskilab-org/gTrack,
+  github::mskilab-org/gGnome,
   github::pblaney/RSeqLib
 License: GPL-3
 Encoding: UTF-8
